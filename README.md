@@ -10,7 +10,7 @@ _extension_) or _narrowing_ (_restriction_ or _specialization_).
 Some classical examples are the English words _dog_ and the Old English _deor_. While the former went through a broadening process from the late Old English "dog of a powerful breed"; the latter is a specialisation of the general meaning of _animal_ in the narrower _deer_ in present-day English.Semantic changes can be further classified on the basis of the cognitive process that originated them, e.g. from _metonymy_ or _metaphor_. Finally, depending on the originating factors, the semantic change can be either language-internal or language-external, when the change is a reflection of societal changes. An example of the latter is the change in meaning of the word _cell_ from _prisoner cell_ to _cell phone_.
 
 
-## Program
+## Outline
 
 ### Data
 
