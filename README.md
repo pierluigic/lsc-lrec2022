@@ -13,7 +13,6 @@ Some classical examples are the English words _dog_ and the Old English _deor_. 
   
 </p>
 
-
 ## Outline
 
 ### Data
