@@ -4,4 +4,4 @@ description: Lexical Semantic Change Tutorial - LREC 2022
 show_downloads: false
 baseurl: "/lsc-lrec2022"
 url: "https://pierluigic.github.io/"
-theme: bulma-clean-theme
+theme: "bulma-clean-theme"
