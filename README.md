@@ -1,4 +1,4 @@
-## Lexical Semantic Change: Models, Data and Evaluation 
+## Tutorial LREC 2022 
 
 You can use the [editor on GitHub](https://github.com/pierluigic/lsc-lrec2022/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
 
