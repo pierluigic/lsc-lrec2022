@@ -1,6 +1,5 @@
 ## Lexical Semantic Change: Models, Data and Evaluation
 
-<p align="justify">
 
 Lexical Semantic Change (LSC) is a phenomenon associated with the diachronic evolution of the meanings of a word. 
 In historical linguistics, it is a well-known problem, which is recently gaining momentum also in the Natural Language Processing (NLP) and Computational Lingustics (CL) communities, thanks to the availability of both large diachronic corpora and evaluation benchmarks.
@@ -10,8 +9,7 @@ This tutorial will present an overview of the current approaches, problems and c
 Lexical semantic change can be analysed from different angles. Considering the type of meaning evolution, a word can undergo either _pejoration_ or _amelioration_ (when meanings become respectively more negative or more positive), or it can be object of _broadening_ (_generalization_ or
 _extension_) or _narrowing_ (_restriction_ or _specialization_). 
 Some classical examples are the English words _dog_ and the Old English _deor_. While the former went through a broadening process from the late Old English "dog of a powerful breed"; the latter is a specialisation of the general meaning of _animal_ in the narrower _deer_ in present-day English.Semantic changes can be further classified on the basis of the cognitive process that originated them, e.g. from _metonymy_ or _metaphor_. Finally, depending on the originating factors, the semantic change can be either language-internal or language-external, when the change is a reflection of societal changes. An example of the latter is the change in meaning of the word _cell_ from _prisoner cell_ to _cell phone_.
-  
-</p>
+
 
 ## Outline
 
