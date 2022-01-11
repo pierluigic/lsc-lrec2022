@@ -27,7 +27,7 @@ This tutorial will present an overview of the current approaches, problems and c
 
   - Lexicographic resources 
 
-- Annotation of Lexical Semantic Changes
+#### Annotation of Lexical Semantic Changes
 
 
 ### Models
