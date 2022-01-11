@@ -17,55 +17,55 @@ This tutorial will present an overview of the current approaches, problems and c
 
 #### Diachronic resources
 
-Diachronic Corpora (e.g. The New York Times Annotated Corpus [1], Corpus of Contemporary American English [2], L'Unità corpus [3])
+- Diachronic Corpora (e.g. The New York Times Annotated Corpus [1], Corpus of Contemporary American English [2], L'Unità corpus [3])
 
-Other resources
+- Other resources
 
-Co-occurrence matrices (e.g. Dukweb [4])
+  - Co-occurrence matrices (e.g. Dukweb [4])
 
-Ngrams (e.g. Google Ngrams)
+  - Ngrams (e.g. Google Ngrams)
 
-Lexicographic resources 
+  - Lexicographic resources 
 
-Annotation of Lexical Semantic Changes
+- Annotation of Lexical Semantic Changes
 
 
 ### Models
 
 #### Alignment Models
 
-Post-alignment models (e.g. OP [5], Canonical Analysis [15])
+- Post-alignment models (e.g. OP [5], Canonical Analysis [15])
 
-Jointly alignment models (e.g. TRI [6], TWEC [7], TR [8], DWE [9], DBE [10])
+- Jointly alignment models (e.g. TRI [6], TWEC [7], TR [8], DWE [9], DBE [10])
 
 #### Other Models
 
-Frequency-based models
+- Frequency-based models
 
-Contextualized models
+- Contextualized models
 
-Word Sense Induction
+- Word Sense Induction
 
-Grammatical and syntax approaches
+- Grammatical and syntax approaches
 
 
 ### Evaluation
 
 #### Tasks
 
-Binary task (e.g. Semeval 2020 Task 1 Subtask 1 [11], DIACR-Ita [12])
+- Binary task (e.g. Semeval 2020 Task 1 Subtask 1 [11], DIACR-Ita [12])
 
-Graded task (e.g. Semeval 2020 Task 1 Subtask 2 [11], RushiftEval [13])
+- Graded task (e.g. Semeval 2020 Task 1 Subtask 2 [11], RushiftEval [13])
 
-Temporal Analogies [9]
+- Temporal Analogies [9]
 
-Lexical Semantic Change Discovery [14]
+- Lexical Semantic Change Discovery [14]
 
 #### Results
 
-Baselines
+- Baselines
 
-State-of-the-art approaches
+- State-of-the-art approaches
 
 
 ## References
