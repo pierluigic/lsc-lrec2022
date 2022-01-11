@@ -68,6 +68,7 @@ This tutorial will present an overview of the current approaches, problems and c
 ## References
 
 [1]    E. Sandhaus, “The new york times annotated corpus,” Linguist. Data Consort. Phila., vol. 6, no. 12, p. e26752, 2008.
+
 [2]    R. Alatrash, D. Schlechtweg, J. Kuhn, and S. S. im Walde, “CCOHA: Clean Corpus of Historical American English,” in Proceedings of The 12th Language Resources and Evaluation Conference, 2020, pp. 6958–6966.
 [3]    P. Basile, A. Caputo, T. Caselli, P. Cassotti, and R. Varvara, “A Diachronic Italian Corpus based on ‘L’Unità,’” in Proceedings of the Seventh Italian Conference on Computational Linguistics, CLiC-it 2020, Bologna, Italy, March 1-3, 2021, 2020, vol. 2769. [Online]. Available: http://ceur-ws.org/Vol-2769/paper\_44.pdf
 [4]    A. Tsakalidis, P. Basile, M. Bazzi, M. Cucuringu, and B. McGillivray, “DUKweb, diachronic word representations from the UK Web Archive corpus,” Sci. Data, vol. 8, no. 1, pp. 1–12, 2021.
