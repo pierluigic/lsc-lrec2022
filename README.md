@@ -9,7 +9,7 @@ This tutorial will present an overview of the current approaches, problems and c
 ## Speakers
 Pierpaolo Basile, University of Bari, Italy
 
-Annalina Caputo, Dublin City University, Ireland
+(Annalina Caputo)[https://annalina.github.io/], Dublin City University, Ireland
 
 Pierluigi Cassotti, University of Bari, Italy
 
