@@ -8,15 +8,16 @@ This tutorial will present an overview of the current approaches, problems and c
 
 ## Speakers
 Pierpaolo Basile, University of Bari, Italy
+
 Annalina Caputo, Dublin City University, Ireland
+
 Pierluigi Cassotti, University of Bari, Italy
+
 Rossella Varvara, Université de Fribourg, Switzerland
 
 
 
 ## Outline
-
-**Monday 20 May, 2022**
 
 ### Introduction
 
