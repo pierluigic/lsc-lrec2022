@@ -21,10 +21,10 @@ Rossella Varvara, Université de Fribourg, Switzerland
 
 ## Outline
 
-### Introduction
+### Introduction - 9:00-9:15 
 
 
-### Data
+### Data - 9:15-10:00 
 
 #### Diachronic resources
 
@@ -41,7 +41,7 @@ Rossella Varvara, Université de Fribourg, Switzerland
 #### Annotation of Lexical Semantic Changes
 
 
-### Models
+### Models Part I - 10:00-10:30
 
 #### Alignment Models
 
@@ -60,7 +60,24 @@ Rossella Varvara, Université de Fribourg, Switzerland
 - Grammatical and syntax approaches
 
 
-### Evaluation
+### Break - 10:30-11:45
+
+
+### Models Part II - 11:00-11:45
+
+
+#### Other Models
+
+- Frequency-based models
+
+- Contextualized models
+
+- Word Sense Induction
+
+- Grammatical and syntax approaches
+
+
+### Evaluation - 11:45-12:15
 
 #### Tasks
 
@@ -77,6 +94,12 @@ Rossella Varvara, Université de Fribourg, Switzerland
 - Baselines
 
 - State-of-the-art approaches
+
+### Hands-on 12:15-13:00
+
+- Word2Vec Skip-grams with Negative Sampling with Orthogonal Procrustes
+
+- BERT for Lexical Semantic Change
 
 
 ## References
