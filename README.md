@@ -10,6 +10,8 @@ Registration is open [https://lrec2022.lrec-conf.org/en/registration/](https://l
 
 The schedule is available here [https://lrec2022.lrec-conf.org/en/workshops-and-tutorials/ws-tut-schedule/](https://lrec2022.lrec-conf.org/en/workshops-and-tutorials/ws-tut-schedule/)
 
+___
+
 ## Speakers
 Pierpaolo Basile, University of Bari, Italy
 
@@ -19,7 +21,7 @@ Pierluigi Cassotti, University of Bari, Italy
 
 Rossella Varvara, Université de Fribourg, Switzerland
 
-
+___
 
 ## Outline
 
@@ -103,6 +105,7 @@ Rossella Varvara, Université de Fribourg, Switzerland
 
 - BERT for Lexical Semantic Change
 
+___
 
 ## References
 
