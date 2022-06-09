@@ -8,6 +8,8 @@ This tutorial will present an overview of the current approaches, problems and c
 
 Registration is open [https://lrec2022.lrec-conf.org/en/registration/](https://lrec2022.lrec-conf.org/en/registration/)
 
+The schedule is available here [https://lrec2022.lrec-conf.org/en/workshops-and-tutorials/ws-tut-schedule/](https://lrec2022.lrec-conf.org/en/workshops-and-tutorials/ws-tut-schedule/)
+
 ## Speakers
 Pierpaolo Basile, University of Bari, Italy
 
