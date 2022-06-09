@@ -13,22 +13,22 @@ The schedule is available here [https://lrec2022.lrec-conf.org/en/workshops-and-
 ___
 
 ## Speakers
-Pierpaolo Basile, University of Bari, Italy
+[Pierpaolo Basile](http://www.di.uniba.it/~swap/index.php?n=Membri.Basile), University of Bari, Italy
 
 [Annalina Caputo](https://annalina.github.io/), Dublin City University, Ireland
 
 Pierluigi Cassotti, University of Bari, Italy
 
-Rossella Varvara, Université de Fribourg, Switzerland
+[Rossella Varvara](https://www3.unifr.ch/directory/en/people/343639/d1f2e), Université de Fribourg, Switzerland
 
 ___
 
 ## Outline
 
-### [9:00-9:15] Introduction  
+### [09:00-09:15] **Introduction** 
 
 
-### [9:15-10:00] Data   
+### [09:15-10:00] **Data**
 
 #### Diachronic resources
 
@@ -45,7 +45,7 @@ ___
 #### Annotation of Lexical Semantic Changes
 
 
-### [10:00-10:30] Models Part I  
+### [10:00-10:30] **Models Part I**
 
 #### Alignment Models
 
@@ -64,10 +64,10 @@ ___
 - Grammatical and syntax approaches
 
 
-### Break  10:30-11:45
+### [10:30-11:45] Break  
 
 
-### [11:00-11:45] Models Part II  
+### [11:00-11:45] **Models Part II**
 
 
 #### Other Models
@@ -81,7 +81,7 @@ ___
 - Grammatical and syntax approaches
 
 
-### [11:45-12:15] Evaluation  
+### [11:45-12:15] **Evaluation** 
 
 #### Tasks
 
@@ -99,7 +99,7 @@ ___
 
 - State-of-the-art approaches
 
-### [12:15-13:00] Hands-on  
+### [12:15-13:00] **Hands-on**
 
 - Word2Vec Skip-grams with Negative Sampling with Orthogonal Procrustes
 
