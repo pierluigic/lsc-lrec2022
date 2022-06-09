@@ -25,10 +25,10 @@ ___
 
 ## Outline
 
-### Introduction  9:00-9:15 
+### [9:00-9:15] Introduction  
 
 
-### Data  9:15-10:00 
+### [9:15-10:00] Data   
 
 #### Diachronic resources
 
@@ -45,7 +45,7 @@ ___
 #### Annotation of Lexical Semantic Changes
 
 
-### Models Part I  10:00-10:30
+### [10:00-10:30] Models Part I  
 
 #### Alignment Models
 
@@ -67,7 +67,7 @@ ___
 ### Break  10:30-11:45
 
 
-### Models Part II  11:00-11:45
+### [11:00-11:45] Models Part II  
 
 
 #### Other Models
@@ -81,7 +81,7 @@ ___
 - Grammatical and syntax approaches
 
 
-### Evaluation  11:45-12:15
+### [11:45-12:15] Evaluation  
 
 #### Tasks
 
@@ -99,7 +99,7 @@ ___
 
 - State-of-the-art approaches
 
-### Hands-on  12:15-13:00
+### [12:15-13:00] Hands-on  
 
 - Word2Vec Skip-grams with Negative Sampling with Orthogonal Procrustes
 
