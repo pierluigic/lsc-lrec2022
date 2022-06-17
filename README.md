@@ -25,7 +25,7 @@ ___
 
 ## Slides
 
-[Models](https://github.com/pierluigic/lsc-lrec2022/blob/gh-pages/LSC%20Tutorial%20-%20LREC%202022%20-%20Models.pdf)
+- [Models](https://github.com/pierluigic/lsc-lrec2022/blob/gh-pages/LSC%20Tutorial%20-%20LREC%202022%20-%20Models.pdf)
 
 ___
 
