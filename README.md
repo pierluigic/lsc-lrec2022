@@ -47,21 +47,18 @@ ___
 
 ### [10:00-10:30] **Models Part I**
 
+#### Background concepts
+
+- PPMI matrix factorization
+- Word2Vec Skip-gram with Negative Sampling (SGNS)
+- BERT-based models
+
 #### Alignment Models
 
-- Post-alignment models (e.g. OP [5], Canonical Analysis [15])
+- Post-alignment models (e.g. Orthogonal Procrustes [5])
 
-- Jointly alignment models (e.g. TRI [6], TWEC [7], TR [8], DWE [9], DBE [10])
-
-#### Other Models
-
-- Frequency-based models
-
-- Contextualized models
-
-- Word Sense Induction
-
-- Grammatical and syntax approaches
+- Jointly alignment models (e.g. Temporal Random Indexing (TRI) [6], Temporal Word Embedding with a Compass (TWEC) [7], Temporal Referencing (TR) [8], Dynamic Word Embedding (DWE) [9], 
+Dynamic Bernoulli Embedding (DBE) [10])
 
 
 ### [10:30-11:45] Break  
@@ -70,15 +67,19 @@ ___
 ### [11:00-11:45] **Models Part II**
 
 
+#### Contextualized Models
+
+- TempoBERT
+- Temporal Attention
+- Deep Mistake
+- Gloss Reader
+
+
 #### Other Models
 
-- Frequency-based models
-
-- Contextualized models
-
+- Local Neighborhood measure
 - Word Sense Induction
-
-- Grammatical and syntax approaches
+- Grammatical Features
 
 
 ### [11:45-12:15] **Evaluation** 
