@@ -101,7 +101,7 @@ ___
 
 ### [12:15-13:00] **Hands-on**
 
-- Word2Vec Skip-grams with Negative Sampling with Orthogonal Procrustes
+- Word2Vec Skip-grams with Negative Sampling (SGNS) and Orthogonal Procrustes (OP)
 
 - BERT for Lexical Semantic Change
 
