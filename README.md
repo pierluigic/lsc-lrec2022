@@ -25,10 +25,10 @@ ___
 
 ## Slides
 
-- Introduction
+- [Introduction](https://github.com/pierluigic/lsc-lrec2022/blob/gh-pages/LSC%20Tutorial%20-%20LREC%202022%20-%20Introduction.pdf)
 - [Data](https://github.com/pierluigic/lsc-lrec2022/blob/gh-pages/LSC%20Tutorial%20-%20LREC%202022%20-%20Data.pdf)
 - [Models](https://github.com/pierluigic/lsc-lrec2022/blob/gh-pages/LSC%20Tutorial%20-%20LREC%202022%20-%20Models.pdf)
-- Evaluation
+- [Evaluation](https://github.com/pierluigic/lsc-lrec2022/blob/gh-pages/LSC%20Tutorial%20-%20LREC%202022%20-%20Evaluation.pdf)
 
 ___
 
