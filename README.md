@@ -111,9 +111,9 @@ Dynamic Bernoulli Embedding (DBE) [10])
 
 ### [12:15-13:00] **Hands-on**
 
-- Word2Vec Skip-grams with Negative Sampling (SGNS) and Orthogonal Procrustes (OP)
+- Word2Vec Skip-grams with Negative Sampling (SGNS) and Orthogonal Procrustes (OP) ([Colab Notebook](https://colab.research.google.com/drive/1pnA1VX8YDDQu-6jayUTy3z9AQesEUmYs?usp=sharing))
 
-- BERT for Lexical Semantic Change
+- BERT for Lexical Semantic Change ([Colab Notebook](https://colab.research.google.com/drive/1aQZkX1YQki5W7aXCec0lu_3rZhlkw7u8?usp=sharing))
 
 ___
 
