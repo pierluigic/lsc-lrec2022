@@ -117,6 +117,7 @@ Dynamic Bernoulli Embedding (DBE) [10])
 
 ___
 
+
 ## References
 
 [1]    E. Sandhaus, “The new york times annotated corpus,” Linguist. Data Consort. Phila., vol. 6, no. 12, p. e26752, 2008.
