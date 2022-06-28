@@ -130,7 +130,7 @@ ___
 
 [5]    W. L. Hamilton, J. Leskovec, and D. Jurafsky, “Diachronie word embeddings reveal statistical laws of semantic change,” in 54th Annual Meeting of the Association for Computational Linguistics, ACL 2016 - Long Papers, May 2016, vol. 3, pp. 1489–1501. [Online]. Available: http://arxiv.org/abs/1605.09096
 
-[6]    P. Basile, A. Caputo, and G. Semeraro, “Analysing word meaning over time by exploiting temporal random indexing,” 2014.
+[6]    P. Basile, A. Caputo, and G. Semeraro, “Analysing word meaning over time by exploiting temporal random indexing,” In The First Italian Conference on Computational Linguistics CLiC-it 2014 (p. 38-42). 
 
 [7]    V. D. Carlo, F. Bianchi, and M. Palmonari, “Training Temporal Word Embeddings with a Compass,” in The Thirty-Third AAAI Conference on Artificial Intelligence, AAAI 2019, The Thirty-First Innovative Applications of Artificial Intelligence Conference, IAAI 2019, The Ninth AAAI Symposium on Educational Advances in Artificial Intelligence, EAAI, Honolulu, Hawaii,USA, Jan. 2019, pp. 6326–6334. doi: 10.1609/aaai.v33i01.33016326.
 
@@ -144,7 +144,7 @@ ___
 
 [12]    P. Basile, A. Caputo, T. Caselli, P. Cassotti, and R. Varvara, “DIACR-Ita @ EVALITA2020: Overview of the EVALITA2020 Diachronic Lexical Semantics (DIACR-Ita) Task,” in Proceedings of the Seventh Evaluation Campaign of Natural Language Processing and Speech Tools for Italian. Final Workshop (EVALITA 2020), Online event, December 17th, 2020, 2020, vol. 2765. [Online]. Available: http://ceur-ws.org/Vol-2765/paper158.pdf
 
-[13]    A. Kutuzov, L. Pivovarova, and others, “RuShiftEval: a shared task on semantic shift detection for Russian,” 2021.
+[13]    A. Kutuzov, L. Pivovarova, and others, “RuShiftEval: a shared task on semantic shift detection for Russian,”  In Computational linguistics and intellectual technologies: Papers from the annual conference Dialogue. Redkollegija sbornika.
 
 [14]    S. Kurtyigit, M. Park, D. Schlechtweg, J. Kuhn, and S. Schulte im Walde, “Lexical Semantic Change Discovery,” in Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers), Online, Aug. 2021, pp. 6985–6998. doi: 10.18653/v1/2021.acl-long.543.
 
